@@ -4,7 +4,9 @@ This folder contains two essential Excel files that demonstrate a comprehensive 
 **Why This Project Matters**
 
 • **Data Quality:** Demonstrates the importance of clean data in achieving accurate analysis.
+
 • **Practical Application:** Provides a real-world example of data cleaning and EDA processes.
+
 • **Insight Generation:** Shows how to transform raw data into valuable insights that can drive business decisions.
 
 **Explore the Files**
